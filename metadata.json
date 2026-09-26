@@ -1,0 +1,6 @@
+{
+  "name": "City Dental Clinic – Trusted & Affordable Dental Care in Karachi",
+  "description": "Premier dental clinic led by Dr. Moin in Gulshan-e-Iqbal, Karachi. High-quality gentle care, transparent economical pricing, open daily until 10 PM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
